@@ -1,7 +1,7 @@
 rm(list=ls())
 source("auxiliary_functions.R")
 
-# Load ocean data
+# Load ocean data (Please install "FRegSigCom" package using the provided .tar.gz file to load the Hawaii ocean data)
 data(ocean)
 
 # Number of simulations
